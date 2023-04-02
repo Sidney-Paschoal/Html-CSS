@@ -1,0 +1,53 @@
+@charset "utf8";
+
+*{
+    margin: 0px;
+}
+body{ 
+    min-width: 320px;
+    max-width: 1000px;
+    margin:auto
+
+}
+header{
+    background-color: #3f1234;
+    min-height: 120px;
+}
+header h1{
+    text-align: center;
+    color:aliceblue;
+    padding-bottom: 15px;
+
+}
+header p{
+    text-align: center;
+    font-size: 20px;
+    color: aliceblue;
+}
+main{
+    background-color: aliceblue;
+     box-shadow: 0px 0px 10px black;
+     padding: 10px;
+    
+}
+main h1{
+    background-image: linear-gradient(to right,#2f39bc,transparent);
+    padding: 5px;
+    margin-bottom: 5px;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, 
+    sans-serif;
+    border-radius: 10px;
+}
+main h3{
+background-image: linear-gradient(to right,#50083d, transparent);
+font-weight: bolder;
+font-style: oblique;
+color:blanchedalmond;
+padding: 5px;
+
+}
+
+main p{
+    text-indent: 20px;
+}

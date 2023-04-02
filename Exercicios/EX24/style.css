@@ -1,0 +1,15 @@
+ 
+ body{
+    background-color: rgb(117, 199, 199);
+}
+h1{
+    background-color: blue;
+    color: white;
+    font-style: italic; font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    background-color: blue; color: white;
+}
+p{
+font-size: 18px;
+}

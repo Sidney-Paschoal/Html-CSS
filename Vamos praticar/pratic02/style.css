@@ -1,0 +1,42 @@
+@charset "utf8";
+
+h1{
+    text-align: center;
+text-decoration: underline;
+}
+h1::after{
+    content: "☂";
+}
+h2{
+    color: white ;
+    font-weight: 600px;
+    background-color:#4a4f75 ;
+}
+body{
+    background-image: linear-gradient(#1B998B,#F3F9E3);
+}
+a{
+color: black;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bolder;
+text-decoration: none;
+}
+
+a::before{
+    content: '⇒';   
+   }
+
+a:visited{
+color: brown;
+}
+a:hover{
+    color: blue;
+}
+    
+main{
+background-color: #f1e480;
+width: 700px;
+padding: 8px;
+border-radius: 30px;
+margin: auto;
+}

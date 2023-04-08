@@ -144,10 +144,13 @@ font-weight: bold;
 footer{
     background-color:#fbc32bf5;
     font-family: sans-serif;
-    padding:  50px;
+    padding-bottom:  40px;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
     font-weight: 600;
-    max-width: 900px;
-    min-width: 300px;
+    max-width: 1000px;
+    min-width: 320px;
     margin-bottom: 20px;
     border-bottom-left-radius: 10px;
 border-bottom-right-radius: 10px ;
